@@ -63,8 +63,6 @@ import org.json.JSONObject;
 import org.xutils.common.Callback;
 import org.xutils.http.RequestParams;
 import org.xutils.view.annotation.ContentView;
-import org.xutils.view.annotation.Event;
-import org.xutils.view.annotation.ViewInject;
 import org.xutils.x;
 
 @ContentView(layout.activity_main)
@@ -956,7 +954,7 @@ public class MainActivity extends Activity {
                 }
 
             } else {
-                Log.e("任务是Fales", "::::");
+                Log.e("没有视频相关任务", "::::");
             }
         } catch (Exception e) {
 
@@ -1122,7 +1120,7 @@ public class MainActivity extends Activity {
                                     public void onPrepared(MediaPlayer mp) {
                                         mp.stop();
                                         mp.release();
-                                        Log.e("停止播放", "停止播放");
+                                        //Log.e("停止播放", "停止播放");
                                     }
                                 });
                             }
