@@ -1,0 +1,1 @@
+CHANGED,E:\android\project\infoShower\app\build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\tingken\infoshower\util\SwitchMachineTask.class

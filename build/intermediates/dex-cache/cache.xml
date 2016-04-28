@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\android\project\infoShower\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8f11f56e350eacabf2273f646d981356eea0ed77">
+        <dex dex="E:\android\project\infoShower\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-18.0.0_38bcb2be3b85a27f985c6bcfb243c4a5cd631f0c.jar" />
+    </item>
+    <item
+        jar="E:\android\project\infoShower\app\libs\httpmime-4.2.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="118ae1bc7f3aeeddfe564f0edfd79c11d09d17d1">
+        <dex dex="E:\android\project\infoShower\app\build\intermediates\pre-dexed\debug\httpmime-4.2.3_937d56dacdab2634f50a2f151f79f0a1a52d6291.jar" />
+    </item>
+    <item
+        jar="E:\android\project\infoShower\app\build\intermediates\exploded-aar\org.xutils\xutils\3.3.25\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="38474e88e6469389af5acb12c2fc6dd800500e41">
+        <dex dex="E:\android\project\infoShower\app\build\intermediates\pre-dexed\debug\org.xutils-xutils-3.3.25_f63bed57fd0b9b9646e835926b54b14cd2468dec.jar" />
+    </item>
+    <item
+        jar="E:\android\project\infoShower\app\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\18.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="dafab6ae358e6c801605d50ff1fa761e77200c1a">
+        <dex dex="E:\android\project\infoShower\app\build\intermediates\pre-dexed\debug\com.android.support-gridlayout-v7-18.0.0_85341a3ffb8a27ab933a41a01d5bd5e9495ef5bc.jar" />
+    </item>
+    <item
+        jar="E:\android\android-sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="E:\android\project\infoShower\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_0d63ad5c37e2435ce34f7d21f1af37cc6c8353c0.jar" />
+    </item>
+
+</items>

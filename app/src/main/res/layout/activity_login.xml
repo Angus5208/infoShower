@@ -1,0 +1,111 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    android:gravity="center|center_horizontal"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.tingken.infoshower.view.LoginActivity" >
+
+    <!-- Login progress -->
+
+    <ProgressBar
+        android:id="@+id/login_progress"
+        style="?android:attr/progressBarStyleLarge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8px"
+        android:visibility="gone" />
+
+    <ScrollView
+        android:id="@+id/login_form"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <LinearLayout
+            android:id="@+id/email_login_form"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center|center_horizontal"
+            android:layout_marginTop="32px"
+            android:background="@drawable/alert_bg"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/title_activity_login"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="32px"
+                android:gravity="center"
+                android:keepScreenOn="true"
+                android:text="@string/title_activity_login"
+                android:textColor="#ffffff"
+                android:textSize="42px" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center|center_horizontal"
+                android:layout_marginTop="116px"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:id="@+id/notice_input_regnum"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    android:keepScreenOn="true"
+                    android:text="@string/notice_input_regnum"
+                    android:textColor="#ffffff"
+                    android:textSize="36px" />
+
+                <EditText
+                    android:id="@+id/regnum"
+                    android:layout_width="390px"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20px"
+                    android:hint="@string/prompt_regnum"
+                    android:imeActionId="@+id/login"
+                    android:imeActionLabel="@string/action_sign_in_short"
+                    android:imeOptions="actionUnspecified"
+                    android:maxLines="1"
+                    android:singleLine="true"
+                    android:textSize="36px" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center|center_horizontal"
+                android:layout_marginTop="54px"
+                android:orientation="horizontal" >
+
+                <Button
+                    android:id="@+id/sign_in_button"
+                    style="?android:textAppearanceSmall"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="22px"
+                    android:background="@drawable/submit_btn_selector"
+                    android:text="@string/ok"
+                    android:textSize="24px"
+                    android:textStyle="bold" />
+
+                <Button
+                    android:id="@+id/cancel"
+                    style="@style/ButtonBarButton"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="30px"
+                    android:background="@drawable/cancel_btn_selector"
+                    android:text="@string/cancel"
+                    android:textSize="24px" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

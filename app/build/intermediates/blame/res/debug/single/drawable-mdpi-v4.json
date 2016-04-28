@@ -1,0 +1,558 @@
+[
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\off_focus.png",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\drawable-mdpi\\off_focus.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\query.png",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\drawable-mdpi\\query.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_stacked_transparent_light_holo.9.png",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-mdpi\\abc_ab_stacked_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_search_right_selected_holo_dark.9.png",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-mdpi\\abc_textfield_search_right_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_bottom_transparent_light_holo.9.png",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-mdpi\\abc_ab_bottom_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_spinner_ab_pressed_holo_light.9.png",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-mdpi\\abc_spinner_ab_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_clear_search_api_disabled_holo_light.png",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-mdpi\\abc_ic_clear_search_api_disabled_holo_light.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_transparent_light_holo.9.png",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-mdpi\\abc_ab_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bg.jpg",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\drawable-mdpi\\bg.jpg"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\setting_bg.png",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\drawable-mdpi\\setting_bg.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_solid_light_holo.9.png",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-mdpi\\abc_ab_solid_light_holo.9.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\menu_bg.png",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\drawable-mdpi\\menu_bg.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_cancel_click_focus.png",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\drawable-mdpi\\btn_cancel_click_focus.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\change_reg_num_bg.png",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\drawable-mdpi\\change_reg_num_bg.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_commit_search_api_holo_dark.png",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-mdpi\\abc_ic_commit_search_api_holo_dark.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_go.png",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-mdpi\\abc_ic_go.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_cab_background_bottom_holo_light.9.png",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-mdpi\\abc_cab_background_bottom_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_menu_dropdown_panel_holo_light.9.png",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-mdpi\\abc_menu_dropdown_panel_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_cancel_click.png",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\drawable-mdpi\\btn_cancel_click.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_stacked_transparent_dark_holo.9.png",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-mdpi\\abc_ab_stacked_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\login_bg.jpg",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\drawable-mdpi\\login_bg.jpg"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\network_disconnect_alert_bg.png",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\drawable-mdpi\\network_disconnect_alert_bg.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_share_pack_holo_light.9.png",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-mdpi\\abc_ab_share_pack_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\connection_failed_notice_bg.png",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\drawable-mdpi\\connection_failed_notice_bg.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\setting_exit.jpg",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\drawable-mdpi\\setting_exit.jpg"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\succeed_tag.png",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\drawable-mdpi\\succeed_tag.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-mdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_change_regnum.png",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\drawable-mdpi\\btn_change_regnum.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\reboot_ico.png",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\drawable-mdpi\\reboot_ico.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\setting_regnum_effect.png",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\drawable-mdpi\\setting_regnum_effect.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\address_change.jpg",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\drawable-mdpi\\address_change.jpg"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\exit_tag.png",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\drawable-mdpi\\exit_tag.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_tab_selected_pressed_holo.9.png",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-mdpi\\abc_tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_search_api_holo_light.png",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-mdpi\\abc_ic_search_api_holo_light.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_cab_done_holo_dark.png",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-mdpi\\abc_ic_cab_done_holo_dark.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_transparent_dark_holo.9.png",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-mdpi\\abc_ab_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\upgrade_tag.png",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\drawable-mdpi\\upgrade_tag.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\welcome_logo.png",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\drawable-mdpi\\welcome_logo.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_search_default_holo_light.9.png",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-mdpi\\abc_textfield_search_default_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_change_autostart.png",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\drawable-mdpi\\btn_change_autostart.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_search_default_holo_dark.9.png",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-mdpi\\abc_textfield_search_default_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_spinner_ab_default_holo_light.9.png",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-mdpi\\abc_spinner_ab_default_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_cab_done_holo_light.png",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-mdpi\\abc_ic_cab_done_holo_light.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\off_nor.png",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\drawable-mdpi\\off_nor.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_clear_search_api_holo_light.png",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-mdpi\\abc_ic_clear_search_api_holo_light.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_commit_search_api_holo_light.png",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-mdpi\\abc_ic_commit_search_api_holo_light.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\change_auto_start_bg.png",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\drawable-mdpi\\change_auto_start_bg.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\setting_auto_start_effect.png",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\drawable-mdpi\\setting_auto_start_effect.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_search.png",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-mdpi\\abc_ic_search.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_bottom_solid_light_holo.9.png",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-mdpi\\abc_ab_bottom_solid_light_holo.9.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_submit_click_focus.png",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\drawable-mdpi\\btn_submit_click_focus.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\setting_autostart.jpg",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\drawable-mdpi\\setting_autostart.jpg"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_tab_selected_focused_holo.9.png",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-mdpi\\abc_tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_submit_focus.png",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\drawable-mdpi\\btn_submit_focus.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\login_success.png",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\drawable-mdpi\\login_success.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\edit_auto_start.png",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\drawable-mdpi\\edit_auto_start.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\welcome_effect.png",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\drawable-mdpi\\welcome_effect.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\on_focus.png",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\drawable-mdpi\\on_focus.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_cab_background_top_holo_light.9.png",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-mdpi\\abc_cab_background_top_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\setting_regnum.jpg",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\drawable-mdpi\\setting_regnum.jpg"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\gray_bg.jpg",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\drawable-mdpi\\gray_bg.jpg"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_cancel_nor.png",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\drawable-mdpi\\btn_cancel_nor.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\retry.png",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\drawable-mdpi\\retry.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_search_selected_holo_light.9.png",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-mdpi\\abc_textfield_search_selected_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\list_item_focus.png",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\drawable-mdpi\\list_item_focus.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\list_item_nor.png",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\drawable-mdpi\\list_item_nor.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_menu_dropdown_panel_holo_dark.9.png",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-mdpi\\abc_menu_dropdown_panel_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_go_search_api_holo_light.png",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-mdpi\\abc_ic_go_search_api_holo_light.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_voice_search_api_holo_light.png",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-mdpi\\abc_ic_voice_search_api_holo_light.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_cancel_focus.png",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\drawable-mdpi\\btn_cancel_focus.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\upgrade_effect.png",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\drawable-mdpi\\upgrade_effect.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\apply_nor.png",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\drawable-mdpi\\apply_nor.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_bottom_solid_dark_holo.9.png",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-mdpi\\abc_ab_bottom_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\restart_tag.png",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\drawable-mdpi\\restart_tag.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\exit_alert_effect.png",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\drawable-mdpi\\exit_alert_effect.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_voice_search.png",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-mdpi\\abc_ic_voice_search.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\login_invalid.png",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\drawable-mdpi\\login_invalid.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_clear_normal.png",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-mdpi\\abc_ic_clear_normal.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_tab_selected_holo.9.png",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-mdpi\\abc_tab_selected_holo.9.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\logo.png",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\drawable-mdpi\\logo.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_moreoverflow_normal_holo_dark.png",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-mdpi\\abc_ic_menu_moreoverflow_normal_holo_dark.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_tab_unselected_pressed_holo.9.png",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-mdpi\\abc_tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_search_right_selected_holo_light.9.png",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-mdpi\\abc_textfield_search_right_selected_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\login_sucess.jpg",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\drawable-mdpi\\login_sucess.jpg"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\auto_restart.jpg",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\drawable-mdpi\\auto_restart.jpg"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\power_off_ico.png",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\drawable-mdpi\\power_off_ico.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_spinner_ab_default_holo_dark.9.png",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-mdpi\\abc_spinner_ab_default_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\alert_bg.png",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\drawable-mdpi\\alert_bg.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\auto_upgrade.jpg",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\drawable-mdpi\\auto_upgrade.jpg"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_ab_back_holo_dark.png",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-mdpi\\abc_ic_ab_back_holo_dark.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_divider_holo_light.9.png",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-mdpi\\abc_list_divider_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_moreoverflow_normal_holo_light.png",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-mdpi\\abc_ic_menu_moreoverflow_normal_holo_light.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\notice_selection_bg.png",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\drawable-mdpi\\notice_selection_bg.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_spinner_ab_disabled_holo_dark.9.png",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-mdpi\\abc_spinner_ab_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_spinner_ab_focused_holo_dark.9.png",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-mdpi\\abc_spinner_ab_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_bottom_transparent_dark_holo.9.png",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-mdpi\\abc_ab_bottom_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-mdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_solid_dark_holo.9.png",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-mdpi\\abc_ab_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\upgrade_notice_bg.png",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\drawable-mdpi\\upgrade_notice_bg.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\edit_regnum_bg.png",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\drawable-mdpi\\edit_regnum_bg.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_cab_background_bottom_holo_dark.9.png",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-mdpi\\abc_cab_background_bottom_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_spinner_ab_focused_holo_light.9.png",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-mdpi\\abc_spinner_ab_focused_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_submit_nor.png",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\drawable-mdpi\\btn_submit_nor.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-mdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_cab_background_top_holo_dark.9.png",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-mdpi\\abc_cab_background_top_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_stacked_solid_dark_holo.9.png",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-mdpi\\abc_ab_stacked_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_ab_back_holo_light.png",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-mdpi\\abc_ic_ab_back_holo_light.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\change_ico.png",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\drawable-mdpi\\change_ico.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\warning.png",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\drawable-mdpi\\warning.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\exit.png",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\drawable-mdpi\\exit.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_clear_disabled.png",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-mdpi\\abc_ic_clear_disabled.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_search_right_default_holo_dark.9.png",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-mdpi\\abc_textfield_search_right_default_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_submit_click.png",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\drawable-mdpi\\btn_submit_click.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-mdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_search_selected_holo_dark.9.png",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-mdpi\\abc_textfield_search_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\apply_click_focus.png",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\drawable-mdpi\\apply_click_focus.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\connection_lost.jpg",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\drawable-mdpi\\connection_lost.jpg"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\login_fail.png",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\drawable-mdpi\\login_fail.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_spinner_ab_pressed_holo_dark.9.png",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-mdpi\\abc_spinner_ab_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\on_nor.png",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\drawable-mdpi\\on_nor.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\notice_bg.png",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\drawable-mdpi\\notice_bg.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_menu_hardkey_panel_holo_dark.9.png",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-mdpi\\abc_menu_hardkey_panel_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_menu_hardkey_panel_holo_light.9.png",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-mdpi\\abc_menu_hardkey_panel_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_share_holo_light.png",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-mdpi\\abc_ic_menu_share_holo_light.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_exit.png",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\drawable-mdpi\\btn_exit.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_spinner_ab_disabled_holo_light.9.png",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-mdpi\\abc_spinner_ab_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_stacked_solid_light_holo.9.png",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-mdpi\\abc_ab_stacked_solid_light_holo.9.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\config_server_address_effect.png",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\drawable-mdpi\\config_server_address_effect.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\apply_focus.png",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\drawable-mdpi\\apply_focus.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_divider_holo_dark.9.png",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-mdpi\\abc_list_divider_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-mdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\connection_failed_notice_effect.png",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\drawable-mdpi\\connection_failed_notice_effect.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_share_holo_dark.png",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-mdpi\\abc_ic_menu_share_holo_dark.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_share_pack_holo_dark.9.png",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-mdpi\\abc_ab_share_pack_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_search_right_default_holo_light.9.png",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-mdpi\\abc_textfield_search_right_default_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\change_server_address_bg.png",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\drawable-mdpi\\change_server_address_bg.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\exit_alert_bg.png",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\drawable-mdpi\\exit_alert_bg.png"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-mdpi\\abc_list_longpressed_holo.9.png"
+    }
+]

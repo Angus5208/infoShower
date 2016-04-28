@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center|bottom"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="center|center_horizontal"
+        android:layout_marginBottom="20px"
+        android:background="@drawable/connection_failed_notice_bg"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="35px"
+            android:layout_marginTop="30px"
+            android:src="@drawable/warning" />
+
+        <TextView
+            android:id="@+id/network_disconnect_alert"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20px"
+            android:layout_marginTop="40px"
+            android:gravity="center"
+            android:keepScreenOn="true"
+            android:text="@string/network_disconnect_alert"
+            android:textColor="#ffffff"
+            android:textSize="32px" />
+    </LinearLayout>
+
+</RelativeLayout>

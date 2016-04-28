@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_welcom.xml",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\layout\\activity_welcom.xml"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login_invalid.xml",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\layout\\activity_login_invalid.xml"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_home.xml",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_home.xml"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_upgrade_notice.xml",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\layout\\activity_upgrade_notice.xml"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\connection_failed_notice.xml",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\layout\\connection_failed_notice.xml"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item.xml",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_mode_close_item.xml"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\exit_alert_dialog.xml",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\layout\\exit_alert_dialog.xml"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\config_server_address.xml",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\layout\\config_server_address.xml"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login_fail.xml",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\layout\\activity_login_fail.xml"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\connection_failed_note.xml",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\layout\\connection_failed_note.xml"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu_setting.xml",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\layout\\menu_setting.xml"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login_success.xml",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\layout\\activity_login_success.xml"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tabbar.xml",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_tabbar.xml"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mediacontroller.xml",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\infoShower\\vitamio\\unspecified\\res\\layout\\mediacontroller.xml"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tab.xml",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_tab.xml"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_include.xml",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_decor_include.xml"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen.xml",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_screen.xml"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_restart_alert.xml",
+        "source": "E:\\android\\project\\infoShower\\app\\src\\main\\res\\layout\\activity_restart_alert.xml"
+    },
+    {
+        "merged": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_overlay.xml",
+        "source": "E:\\android\\project\\infoShower\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_decor_overlay.xml"
+    }
+]
